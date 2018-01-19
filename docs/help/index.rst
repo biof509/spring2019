@@ -1,18 +1,16 @@
 Asking for Help
 ===============
 
-We will not be running regular office hours during the course. We are available by email to provide support and can schedule to meet on an ad hoc basis as needed.
+We will not be running regular office hours during the course. For each assignment and the final project, we will create a Slack channel (https://biof509.slack.com).
+Please ask your questions on the assigment's Slack channel, and one of us will respond.
 
-* Jonathan Street (jonathan.street@nih.gov)
-* Alexander Goncearenco (alexandr.goncearenco@nih.gov)
-
-Email is the fastest way we can help anyone needing support but it is not instant. If we need to get additional information there will be additional delays each time we go back and forth. These delays can quickly add up.
+When requesting help, please make sure to:
 
 Provide detail
     Tell us what you were expecting and what you actually get.
 
 Include code
-    If you have a problem with a piece of code then send us the code. There is little we can do with an email stating, "It doesn't work" with no other information. 
+    If you have a problem with a piece of code then send us the code.
     
 Check that the notebook is working correctly
     Jupyter notebook generally works very well but can occasionally break. If you are having an issue with code running in a notebook a useful first step is restarting the kernel.
