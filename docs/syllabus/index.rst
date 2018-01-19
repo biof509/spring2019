@@ -13,14 +13,14 @@ Instructors:
 * Ayal Gussow (ayal.gussow@gmail.com)
 
 Teaching assistant:
-* Name (email)
+* Ryan Dhindsa (ryandhindsa@gmail.com)
 
 
 First class: 1st February 2018
 
 Final class: 15th May 2018
 
-*This document is subject to revision. Last revised 16th January 2018.*
+*This document is subject to revision. Last revised 19th January 2018.*
 
 Course Description
 ------------------
@@ -98,57 +98,25 @@ Assignments and Grading
 
 The emphasis of the course is on learning and mastering the skills covered. It is our hope that everyone will be able to complete the assignments and project. If some of the material appears unclear please ask for clarification.
 
-The final project is 60% of the course, with the weekly assignments representing the remainder.
+The final project is 50% of the course, with the weekly assignments representing the remainder.
 
-Grading assignments will follow the following rubric:
-
-* Program runs, produces correct result, contains useful comments, meaningful variable names, follows coding conventions: A+ (>97.5%)
-* Program runs, produces correct result: A (>90%)
-* Program runs, produces something close to the correct result: B (>80%)
-* Program runs, does not produce correct result: C (>70%)
-* Program does not run: Incomplete (I, <70%)
-
-Grading the final project will follow the following rubric:
+Weekly assignments will generally consist of multiple components. Unless otherwise specified, each component will be graded pass / fail. A component will 
+be graded as "pass" if it runs and produces the expected results. The final grade will be equal to the percentage of components that are graded as "pass"
+out of all the assignment's components.
 
 
-* Project description / Specification
+The final project will consist of the following components:
 
-  - Goals unclear, difficulty demonstrating functionality (1-3)
-  - Goals for the project and functionality are discussed but difficult to follow (4-6)
-  - Goals for the project and functionality are discussed (7-9)
-  - Goals for the project and functionality are logically presented and clearly communicated (10-12)
+1) *Project documentation.* Each project should have documentation clarifying it's goal and functionality. The code itself should be well-documented,
+with comments spread out to aid understanding. Functions and classes should have docstrings describing their functionality, inputs and outputs.
 
+2) *Project code.* The code should be well-organized and easy to read. It should also be written modularly, so that each part of code is reusable.
+The code should run and produce the correct output under different conditions. It should also have robust error checking.
 
-* Documentation
+3) *Project presentation.* Each student will present their project at the end of the semester. The idea here is to present the project's goals, input, and output,
+preferably while showing snippets of code.
 
-  - Only comments embedded in the code (1-3)
-  - Objects and methods have docstrings (4-6)
-  - Objects and methods have docstrings, additional standalone documentation (7-9)
-  - Objects and methods have docstrings, extensive standalone documentation with example usage (10-12)
-
-
-* Readability
-
-  - The code is poorly organized and very difficult to read (1-3)
-  - The code is readable, but challenging to understand (4-6)
-  - The code is fairly easy to read (7-9)
-  - The code is well organized and very easy to read (10-12)
-
-
-* Reusability
-
-  - The code is not organized for reusability (1-3)
-  - Some parts of the code could be reused (4-6)
-  - Most of the code could be reused (7-9)
-  - Each part of the code, and the whole, could be reused (10-12)
-
-
-* Performance 
-
-  - Program does not run (1-6)
-  - Program runs, but does not produce correct output (7-12)
-  - Program runs, produces correct output under most conditions (13-18)
-  - Program runs, produces correct output with robust error checking (19-24)
+Project grades will be determined based on the components outlined above, with each component representing 33% of the project grade.
 
 
 Course Materials
