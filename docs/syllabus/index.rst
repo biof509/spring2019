@@ -13,6 +13,7 @@ Instructors:
 * Ayal Gussow (ayal.gussow@gmail.com)
 
 Teaching assistant:
+
 * Ryan Dhindsa (ryandhindsa@gmail.com)
 
 
