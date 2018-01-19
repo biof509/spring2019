@@ -101,11 +101,12 @@ The emphasis of the course is on learning and mastering the skills covered. It i
 
 The final project is 50% of the course, with the weekly assignments representing the remainder.
 
+**Weekly Assignments**
 Weekly assignments will generally consist of multiple components. Unless otherwise specified, each component will be graded pass / fail. A component will 
 be graded as "pass" if it runs and produces the expected results. The final grade will be equal to the percentage of components that are graded as "pass"
 out of all the assignment's components.
 
-
+**Final Project**
 The final project will consist of the following components:
 
 1) *Project documentation.* Each project should have documentation clarifying it's goal and functionality. The code itself should be well-documented,
