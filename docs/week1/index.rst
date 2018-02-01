@@ -80,7 +80,7 @@ Files
 
 Please download the notebook below for use during the class.
 
- `Week 1 notebook <../week1-files/Week 1.ipynb>`_
+ `Week 1 notebook <../week1-files/Intro.ipynb>`_
  
- `Week 1 Assignment <../week1-files/Week 1 Assignment.ipynb>`_
+ `Week 1 Assignment <../week1-files/Week1Assignment.ipynb>`_
  
