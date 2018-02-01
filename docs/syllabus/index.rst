@@ -16,12 +16,18 @@ Teaching assistant:
 
 * Ryan Dhindsa (ryandhindsa@gmail.com)
 
+Important links:
+
+* `Slack workspace for announcements and assistance: <http://biof509.slack.com/>`_
+
+* `Class grading system <https://okpy.org>`_
+
 
 First class: 1st February 2018
 
 Final class: 15th May 2018
 
-*This document is subject to revision. Last revised 19th January 2018.*
+*This document is subject to revision. Last revised 1st February 2018.*
 
 Course Description
 ------------------
@@ -57,16 +63,16 @@ Logistics
 ---------
 
 
-This is a 15 week course starting on the 1st February 2018, and finishing on 10th May 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room B1C209 within the FAES Academic Center.
+This is a 15 week course starting on the 1st February 2018, and finishing on 10th May 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room B1C205 within the FAES Academic Center.
 
-Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be sent to all learners via email.
+Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be distributed over the course website.
 
 Most classes will have hands-on tutorials and assignments. Both practice and graded assignments will generally be provided. Graded assignments should be submitted prior to the following class. So that you can follow along during class bringing a laptop to each class is strongly encouraged.
 
 Important dates:
 
-* ?? February 2018 - Last day to drop/withdraw
-* ?? February 2018 - Last day to change status (credit or audit)
+* 23 February 2018 - Last day to drop/withdraw
+* 30 March 2018 - Last day to change status (credit or audit)
 
 Required Materials
 ------------------
@@ -126,39 +132,38 @@ Project grades will be determined based on the components outlined above, with e
 Course Materials
 ----------------
 
-Course materials are available from 
-`the github repository <https://github.com/biof509/biof509-spring2018>`_.
+Course materials will be distributed on this website in the corresponding weekly sections.
 
 
 Schedule
 --------
 
-**Week 1 (01 February 2018):** Course overview, basics refresher and common machine learning tasks.
+**Week 1 (01 February 2018):** Course overview and a Python refresher.
 
-**Week 2 (08 February 2018):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
+**Week 2 (08 February 2018):** Different programming paradigms. The main object-oriented programming (OOP) concepts.
 
-**Week 3 (15 February 2018):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
+**Week 3 (15 February 2018):** Developing applications with OOP.
 
-**Week 4 (22 February 2018):** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
+**Week 4 (22 February 2018):** Introduction to Numpy, Pandas and Scikit-Learn.
 
-**Week 5 (01 March 2018):** (NEW) Python data structures. Numpy, Pandas 
+**Week 5 (01 March 2018):** Plotting in Python: Matplotlib, Pandas, Seaborn.
 
-**Week 6 (08 March 2018):** Data retrieval and dataset preprocessing.
+**Week 6 (08 March 2018):** Data retrieval and dataset preprocessing in Scikit-Learn.
 
-**Week 7 (15 March 2018):** Linear regression with numpy. Overview of scikit-learn and object oriented programming syntax.
+**Week 7 (15 March 2018):** Regression with Numpy and Scikit-Learn.
 
-**Week 8 (22 March 2018):** Regression and classification.
+**Week 8 (22 March 2018):** Classification with Scikit-Learn
 
-**Week 9 (29 March 2018):** Unsupervised learning and clustering.
+**Week 9 (29 March 2018):** Unsupervised learning and Clustering with Scikit-Learn.
 
-**Week 10 (05 April 2018):** Dimensionality reduction and feature selection.
+**Week 10 (05 April 2018):** Dimensionality reduction and feature selection with Scikit-Learn.
 
 **Week 11 (12 April 2018):** Deep learning and other advanced ML tasks.
 
-**Week 12 (19 April 2018):** The machine learning workflow.
+**Week 12 (19 April 2018):** The machine learning workflow with Scikit-Learn.
 
-**Week 13 (26 April 2018):** Creating web applications with WSGI using Flask. (NEW) Interacting with Javascript and D3.js.
+**Week 13 (26 April 2018):** Turning Machine-Learning projects into software. Questions and Answers session.
 
-**Week 14 (03 May 2018):** Project presentations. Part I.
+**Week 14 (03 May 2018):** Project presentations and feedback. Part I.
 
-**Week 15 (10 May 2018):** Project presentations. Part II.
+**Week 15 (10 May 2018):** Project presentations and feedback. Part II.

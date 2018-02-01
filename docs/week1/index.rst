@@ -74,18 +74,3 @@ We will use pandas mainly for loading datasets and preprocessing.
 * http://pandas.pydata.org/pandas-docs/stable/10min.html
 * http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 
-
-Files
------
-
-Please download the notebook below for use during the class.
-
- `Week 1 notebooks <../week1-notebooks.zip>`_
- 
-
-Solutions
----------
-
-A set of example solutions and a screencast on their development are now available: :doc:`solutions`
- 
-

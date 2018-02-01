@@ -13,14 +13,21 @@ Instructors:
 * Ayal Gussow (ayal.gussow@gmail.com)
 
 Teaching assistant:
-* Name (email)
+
+* Ryan Dhindsa (ryandhindsa@gmail.com)
+
+Important links:
+
+* `Slack workspace for announcements and assistance: <http://biof509.slack.com/>`_
+
+* `Class grading system <https://okpy.org>`_
 
 
 First class: 1st February 2018
 
 Final class: 15th May 2018
 
-*This document is subject to revision. Last revised 16th January 2018.*
+*This document is subject to revision. Last revised 1st February 2018.*
 
 Course Description
 ------------------
@@ -56,16 +63,16 @@ Logistics
 ---------
 
 
-This is a 15 week course starting on the 1st February 2018, and finishing on 10th May 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room B1C209 within the FAES Academic Center.
+This is a 15 week course starting on the 1st February 2018, and finishing on 10th May 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room B1C205 within the FAES Academic Center.
 
-Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be sent to all learners via email.
+Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be distributed over the course website.
 
 Most classes will have hands-on tutorials and assignments. Both practice and graded assignments will generally be provided. Graded assignments should be submitted prior to the following class. So that you can follow along during class bringing a laptop to each class is strongly encouraged.
 
 Important dates:
 
-* ?? February 2018 - Last day to drop/withdraw
-* ?? February 2018 - Last day to change status (credit or audit)
+* 23 February 2018 - Last day to drop/withdraw
+* 30 March 2018 - Last day to change status (credit or audit)
 
 Required Materials
 ------------------
@@ -98,95 +105,65 @@ Assignments and Grading
 
 The emphasis of the course is on learning and mastering the skills covered. It is our hope that everyone will be able to complete the assignments and project. If some of the material appears unclear please ask for clarification.
 
-The final project is 60% of the course, with the weekly assignments representing the remainder.
+The final project is 50% of the course, with the weekly assignments representing the remainder.
 
-Grading assignments will follow the following rubric:
+**Weekly Assignments**
 
-* Program runs, produces correct result, contains useful comments, meaningful variable names, follows coding conventions: A+ (>97.5%)
-* Program runs, produces correct result: A (>90%)
-* Program runs, produces something close to the correct result: B (>80%)
-* Program runs, does not produce correct result: C (>70%)
-* Program does not run: Incomplete (I, <70%)
+Weekly assignments will generally consist of multiple components. Unless otherwise specified, each component will be graded pass / fail. A component will 
+be graded as "pass" if it runs and produces the expected results. The final grade will be equal to the percentage of components that are graded as "pass"
+out of all the assignment's components.
 
-Grading the final project will follow the following rubric:
+**Final Project**
 
+The final project will consist of the following components:
 
-* Project description / Specification
+1) *Project documentation.* Each project should have documentation clarifying its goal and functionality. The code itself should be well-documented,
+with comments spread out to aid understanding. Functions and classes should have docstrings describing their functionality, inputs and outputs.
 
-  - Goals unclear, difficulty demonstrating functionality (1-3)
-  - Goals for the project and functionality are discussed but difficult to follow (4-6)
-  - Goals for the project and functionality are discussed (7-9)
-  - Goals for the project and functionality are logically presented and clearly communicated (10-12)
+2) *Project code.* The code should be well-organized and easy to read. It should also be written modularly, so that each part of code is reusable.
+The code should run and produce the correct output under different conditions. It should also have robust error checking.
 
+3) *Project presentation.* Each student will present their project at the end of the semester. The idea here is to present the project's goals, input, and output,
+preferably while showing snippets of code.
 
-* Documentation
-
-  - Only comments embedded in the code (1-3)
-  - Objects and methods have docstrings (4-6)
-  - Objects and methods have docstrings, additional standalone documentation (7-9)
-  - Objects and methods have docstrings, extensive standalone documentation with example usage (10-12)
-
-
-* Readability
-
-  - The code is poorly organized and very difficult to read (1-3)
-  - The code is readable, but challenging to understand (4-6)
-  - The code is fairly easy to read (7-9)
-  - The code is well organized and very easy to read (10-12)
-
-
-* Reusability
-
-  - The code is not organized for reusability (1-3)
-  - Some parts of the code could be reused (4-6)
-  - Most of the code could be reused (7-9)
-  - Each part of the code, and the whole, could be reused (10-12)
-
-
-* Performance 
-
-  - Program does not run (1-6)
-  - Program runs, but does not produce correct output (7-12)
-  - Program runs, produces correct output under most conditions (13-18)
-  - Program runs, produces correct output with robust error checking (19-24)
+Project grades will be determined based on the components outlined above, with each component representing 33% of the project grade.
 
 
 Course Materials
 ----------------
 
-Course materials are available from 
-`the github repository <https://github.com/biof509/biof509-spring2018>`_.
+Course materials will be distributed on this website in the corresponding weekly sections.
 
 
 Schedule
 --------
 
-**Week 1 (01 February 2018):** Course overview, basics refresher and common machine learning tasks.
+**Week 1 (01 February 2018):** Course overview and a Python refresher.
 
-**Week 2 (08 February 2018):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
+**Week 2 (08 February 2018):** Different programming paradigms. The main object-oriented programming (OOP) concepts.
 
-**Week 3 (15 February 2018):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
+**Week 3 (15 February 2018):** Developing applications with OOP.
 
-**Week 4 (22 February 2018):** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
+**Week 4 (22 February 2018):** Introduction to Numpy, Pandas and Scikit-Learn.
 
-**Week 5 (01 March 2018):** (NEW) Python data structures. Numpy, Pandas 
+**Week 5 (01 March 2018):** Plotting in Python: Matplotlib, Pandas, Seaborn.
 
-**Week 6 (08 March 2018):** Data retrieval and dataset preprocessing.
+**Week 6 (08 March 2018):** Data retrieval and dataset preprocessing in Scikit-Learn.
 
-**Week 7 (15 March 2018):** Linear regression with numpy. Overview of scikit-learn and object oriented programming syntax.
+**Week 7 (15 March 2018):** Regression with Numpy and Scikit-Learn.
 
-**Week 8 (22 March 2018):** Regression and classification.
+**Week 8 (22 March 2018):** Classification with Scikit-Learn
 
-**Week 9 (29 March 2018):** Unsupervised learning and clustering.
+**Week 9 (29 March 2018):** Unsupervised learning and Clustering with Scikit-Learn.
 
-**Week 10 (05 April 2018):** Dimensionality reduction and feature selection.
+**Week 10 (05 April 2018):** Dimensionality reduction and feature selection with Scikit-Learn.
 
 **Week 11 (12 April 2018):** Deep learning and other advanced ML tasks.
 
-**Week 12 (19 April 2018):** The machine learning workflow.
+**Week 12 (19 April 2018):** The machine learning workflow with Scikit-Learn.
 
-**Week 13 (26 April 2018):** Creating web applications with WSGI using Flask. (NEW) Interacting with Javascript and D3.js.
+**Week 13 (26 April 2018):** Turning Machine-Learning projects into software. Questions and Answers session.
 
-**Week 14 (03 May 2018):** Project presentations. Part I.
+**Week 14 (03 May 2018):** Project presentations and feedback. Part I.
 
-**Week 15 (10 May 2018):** Project presentations. Part II.
+**Week 15 (10 May 2018):** Project presentations and feedback. Part II.
