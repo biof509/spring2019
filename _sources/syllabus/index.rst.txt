@@ -23,7 +23,7 @@ Important links:
 * `Class grading system <https://okpy.org>`_
 
 
-First class: 1st February 2018
+First class: 1st February 2018 at 5pm in building 10, room B1C205
 
 Final class: 15th May 2018
 
