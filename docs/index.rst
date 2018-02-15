@@ -19,7 +19,7 @@ Contents:
    resources/index.rst
    week1/index.rst
    week2/index.rst
-   
+   week3/index.rst
 
 Indices and tables
 ==================
