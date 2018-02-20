@@ -8,4 +8,4 @@ Files
 
 Please download the notebook below for use during the class.
 
- `Week 3 notebook <../week2-files/Week3.ipynb>`_
+ `Week 3 notebook <../week3-files/Week3.ipynb>`_
