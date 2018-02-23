@@ -74,6 +74,7 @@ if errorlevel 9009 (
 
 if "%1" == "html" (
 	%SPHINXBUILD% -b html %ALLSPHINXOPTS% %BUILDDIR%
+	ECHO hello > %BUILDDIR%/.nojekyll
 	if errorlevel 1 exit /b 1
 	echo.
 	echo.Build finished. The HTML pages are in %BUILDDIR%.
