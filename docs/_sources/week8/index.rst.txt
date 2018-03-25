@@ -10,5 +10,10 @@ Files
 
 Please download the notebook below for use during the class:
 
-:download:`Week 8 slides  <Week8.ipynb>`
+:download:`Week 8 notebook  <Week8.ipynb>`
+
+
+Homework assignment:
+
+:download:`Week 8 assignment <Week8-assignment.ipynb>`
 

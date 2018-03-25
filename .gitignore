@@ -62,3 +62,6 @@ target/
 .ipynb_checkpoints
 
 .buildinfo
+
+.nbgrader.log
+nbgrader_config.py
