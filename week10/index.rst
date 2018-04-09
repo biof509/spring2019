@@ -10,3 +10,6 @@ Please download the notebook below:
 
 :download:`Week 10 notebook <Week10.ipynb>`
 
+Homework assignment for Week 10:
+
+:download:`Week 10 homework assignment <Week10-assignment.ipynb>`
