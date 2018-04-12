@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pylab
+  - tensorflow
+  - keras
+  - pip:
+    - sphinx-gallery
