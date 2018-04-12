@@ -9,7 +9,7 @@ Files
 
 Please download the slides in PDF format and the Jupyter notebook below:
 
-:download:`Week 11 slides <Week11.pdf>`
+:download:`Week 11 slides <Week11.pptx>`
 
 :download:`Week 11 notebook <Week11.ipynb>`
 
