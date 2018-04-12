@@ -7,7 +7,7 @@ Week 11 is an introduction to Deep Learning by our guest instructor Dr Nicolas F
 Files
 -----
 
-Please download the slides in PDF format and the Jupyter notebook below:
+Please download the slides in PowerPoint format and the Jupyter notebook below:
 
 :download:`Week 11 slides <Week11.pptx>`
 
