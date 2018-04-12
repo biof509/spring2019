@@ -1,11 +1,12 @@
+name: tensorflow-environment
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - matplotlib
+  - python
   - numpy
+  - matplotlib
   - pylab
+  - pandas
   - tensorflow
   - keras
-  - pip:
-    - sphinx-gallery
