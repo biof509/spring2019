@@ -1,0 +1,15 @@
+name: tensorflow-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - pylab
+  - pandas
+  - tensorflow
+  - keras
