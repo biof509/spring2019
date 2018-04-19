@@ -28,6 +28,7 @@ Contents:
    week9/index.rst
    week10/index.rst
    week11/index.rst
+   week12/index.rst
 
 Indices and tables
 ==================
