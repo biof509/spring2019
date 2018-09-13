@@ -1,10 +1,20 @@
 Syllabus
 ========
 
-**BIOF509 - Machine Learning and Object-Oriented Programming with Python**
+**BIOF509 - Applied Machine Learning with Python**
 
 
-**Spring 2018**
+**Fall 2018**
+
+Machine learning is a computational field that consists of techniques allowing computers to learn from data and make data-driven predictions or decisions. The ability to implement machine learning approaches appropriately and intelligently is a crucial component of data analysis. BIOF 509 provides a broad practical introduction to machine learning concepts, analysis design, and implementation.
+
+The course will give a broad and conceptual overview of the most popular machine learning algorithms, followed by examples of how and when to apply them to real data. Best practices in designing machine learning analyses will be emphasized and reviewed, along with how to avoid common pitfalls and how to interpret analysis results. 
+
+Through homework and in-class assignments, students will implement machine learning models in Python, utilizing state-of-the-art machine learning Python packages, such as scikit-learn and tensorflow. Algorithms that will be covered include but are not limited to linear and logistic regression, random forest, K-means clustering, and deep learning.
+
+Note that the course emphasizes hands-on application of algorithms, and mathematical derivation will not be reviewed. Further, depending on the student’s familiarity with Python, completing the weekly homework assignments can take 1-4 hours.
+
+The course will culminate in a short research project utilizing machine learning to analyze either the student’s own dataset or a public dataset that the student chooses.
 
 
 Instructors:
@@ -23,11 +33,11 @@ Important links:
 * `Class grading system <https://okpy.org>`_
 
 
-First class: 1st February 2018 at 5pm in building 10, room B1C205
+First class: 13st September 2018 at 5pm in building 10, room 2-3330.
 
-Final class: 15th May 2018
+Final classes: 13-14th December 2018
 
-*This document is subject to revision. Last revised 1st February 2018.*
+*This document is subject to revision. Last revised 13th September 2018.*
 
 Course Description
 ------------------
@@ -37,48 +47,33 @@ Learning Objectives
 
 By the end of this course you should be able to:
 
-1. Create working python programs using the basic features of the python language together with numpy, pandas, and biopython (A brief refresh)
-2. Demonstrate the tools commonly used in professional settings to aid development
-3. Describe the common types of machine learning tasks
-4. Implement a simple linear regression model utilizing numpy
-5. List the advantages and disadvantages of different machine learning algorithms
-6. Apply machine learning algorithms for both regression and classification
-7. Convert a data set into a form suitable for use by machine learning algorithms
-8. Apply dimensionality reduction to a data set for visualization and further processing
-9. Identify subpopulations using clustering algorithms
-10. Choose appropriate model parameters
-11. Evaluate the results of a machine learning model
-12. Integrate a machine learning model in a workflow
-13. Compare different programming paradigms including procedural, functional and object oriented.
-14. Define what an object is in the context of programming
-15. Identify the features of an object definition
-16. Contrast attributes, properties and methods
-17. Review special methods
-18. Design a public interface for a class
-19. Utilize inheritance and abstraction
-20. Choose when and how to raise and handle exceptions appropriately
-
+1. Create data analysis programs in Python language together with numpy, pandas, matplotlib in Jupyter environment
+2. Describe the common types of machine learning and deep learning tasks
+3. Implement simple machine learning algorithms, such as linear and logistic regression models and clustering utilizing numpy
+4. Convert a data set into a form suitable for use by machine learning algorithms
+5. Choose appropriate machine learning techniques for data analyses and interpret their results.
+6. Properly design machine learning analysis pipelines and avoid common pitfalls.
+7. Complete a short research project using machine learning. 
 
 Logistics
 ---------
 
-
-This is a 15 week course starting on the 1st February 2018, and finishing on 10th May 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room B1C205 within the FAES Academic Center.
+This is a 14 week course starting on the 13th September 2018, and finishing on 13-14th December 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room 2-3330 within the FAES Academic Center.
 
 Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be distributed over the course website.
 
-Most classes will have hands-on tutorials and assignments. Both practice and graded assignments will generally be provided. Graded assignments should be submitted prior to the following class. So that you can follow along during class bringing a laptop to each class is strongly encouraged.
+Most classes will have hands-on tutorials and assignments. Both practice and graded assignments will generally be provided. Graded assignments should be submitted prior to the following class, please follow the deadlines specified on OKpy website. So that you can follow along during class bringing a laptop to each class is strongly encouraged.
 
 Important dates:
 
-* 23 February 2018 - Last day to drop/withdraw
-* 30 March 2018 - Last day to change status (credit or audit)
+* October 2018 - Last day to drop/withdraw
+* November 2018 - Last day to change status (credit or audit)
 
 Required Materials
 ------------------
 
 
-**Each student is encouraged to bring their own laptop to each class.** For the course, we will use Python 3. Any python installation should work, but you must be able to install packages. The Anaconda Scientific Python Distribution from Continuum Analytics will likely be the easiest approach to configuring python if you do not already have python installed. The Anaconda installer will automatically install many of the packages we will use during the course.
+**Each student is encouraged to bring their own laptop to each class.** For the course, we will use Python 3. Any up-to-date python installation should work, but you must be able to install packages. The Anaconda Scientific Python Distribution from Continuum Analytics will likely be the easiest approach to configuring python if you do not already have python installed. The Anaconda installer will automatically install many of the packages we will use during the course.
 
 Recommended Books
 -----------------
@@ -98,12 +93,11 @@ The following books cover some of the same material we will cover during the cou
 
 * `The Elements of statistical learning (ebook freely available from the authors) <http://statweb.stanford.edu/~tibs/ElemStatLearn/>`_ by Trevor Hastie, Robert Tibshirani, and Jerome Firedman.
 * `Python Machine Learning <http://sebastianraschka.com/books.html>`_ by Sebastian Rashka. Release of a second edition is imminent, notebooks are `already available <https://github.com/rasbt/python-machine-learning-book-2nd-edition>`_
-* `Python 3 Object Oriented Programming <https://www.packtpub.com/application-development/python-3-object-oriented-programming>`_ by Dusty Phillips
 
 Assignments and Grading
 -----------------------
 
-The emphasis of the course is on learning and mastering the skills covered. It is our hope that everyone will be able to complete the assignments and project. If some of the material appears unclear please ask for clarification.
+The emphasis of the course is on learning and mastering the skills covered. It is our hope that everyone will be able to complete the assignments and project. If some of the material appears unclear please ask on the corresponding Slack channel for clarification.
 
 The final project is 50% of the course, with the weekly assignments representing the remainder.
 
@@ -138,32 +132,32 @@ Course materials will be distributed on this website in the corresponding weekly
 Schedule
 --------
 
-**Week 1 (01 February 2018):** Course overview and a Python refresher.
+**Week 1 (13 February):** Course overview. Introduction to machine learning topics
 
-**Week 2 (08 February 2018):** Different programming paradigms. The main object-oriented programming (OOP) concepts.
+**Week 2 (20 September):** Data retrieval and visualization with numpy, pandas, scikit-learn
 
-**Week 3 (15 February 2018):** Developing applications with OOP.
+**Week 3 (27 September):** Data wrangling, preprocessing, and normalization
 
-**Week 4 (22 February 2018):** Introduction to Numpy, Pandas and Scikit-Learn.
+**Week 4 (04 October):** Supervised learning 1: Regression problems
 
-**Week 5 (01 March 2018):** Plotting in Python: Matplotlib, Pandas, Seaborn.
+**Week 5 (11 October):** Supervised learning 2: Overfitting, regularization, hyperparameter optimization, and cross-validation
 
-**Week 6 (08 March 2018):** Data retrieval and dataset preprocessing in Scikit-Learn.
+**Week 6 (18 October):** Supervised learning 3: Classification problems
 
-**Week 7 (15 March 2018):** Regression with Numpy and Scikit-Learn.
+**Week 7 (25 October):** Unsupervised learning 1: Clustering
 
-**Week 8 (22 March 2018):** Classification with Scikit-Learn
+**Week 8 (01 November):** Unsupervised learning 2: Latent variable models
 
-**Week 9 (29 March 2018):** Unsupervised learning and Clustering with Scikit-Learn.
+**Week 9 (08 November):** Unsupervised learning 3: Dimensionality reduction and feature selection
 
-**Week 10 (05 April 2018):** Dimensionality reduction and feature selection with Scikit-Learn.
+**Week 10 (15 November):** Introduction to deep learning methods
 
-**Week 11 (12 April 2018):** Deep learning and other advanced ML tasks.
+** No class on 22 November:** Thanksgiving
 
-**Week 12 (19 April 2018):** The machine learning workflow with Scikit-Learn.
+**Week 11 (29 November):** Practicum on deep learning
 
-**Week 13 (26 April 2018):** Turning Machine-Learning projects into software. Questions and Answers session.
+**Week 12 (06 December):** Implementing machine learning workflows. Common pitfalls and best practices.
 
-**Week 14 (03 May 2018):** Project presentations and feedback. Part I.
+**Week 13 (13 December):** Project presentations and feedback. Part I.
 
-**Week 15 (10 May 2018):** Project presentations and feedback. Part II.
+**Week 14 (14 December):** Project presentations and feedback. Part II.

@@ -1,8 +1,8 @@
 Asking for Help
 ===============
 
-We will not be running regular office hours during the course. For each assignment and the final project, we will create a Slack channel (https://biof509.slack.com).
-Please ask your questions on the assigment's Slack channel, and one of us will respond.
+We will not be running regular office hours during the course. For each assignment and the final project, we will create a Slack channel (https://biof509.slack.com) named week1, week2 and so on.
+Please ask your questions on the assigment's Slack channel, and one of us will respond promptly.
 
 When requesting help, please make sure to:
 

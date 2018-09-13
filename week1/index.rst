@@ -2,8 +2,7 @@ Week 1
 ======
 
 
-Week 1 will be a general introduction to the course and a refresher
-on basic python programming.
+Week 1 will be a general introduction to the course and an introduction to machine learning topics.
 
 
 Preparation
@@ -12,15 +11,15 @@ Preparation
 I would encourage everyone to bring a laptop to the classes to follow along. 
 If you do not already have python installed the simplest way to set up your
 computer is probably with the 
-`Anaconda installer <https://www.continuum.io/downloads>`_. Use the installer 
+`Anaconda installer <https://www.anaconda.com/download/>`_. Use the installer 
 for python 3.6 appropriate for your operating system. 
 
-We will be using python 3.6 throughout the course. If you already have a 
-version of python 3 installed all the examples we go through will probably 
-work without any errors. If you currently have a version of python 2 installed 
-you may still be fine but errors are more likely and I would encourage you to 
-either upgrade or create a python 3.6 environment specifically for this 
-course. If you have previously used the anaconda installer a new environment 
+We will be using python 3.6 throughout the course (a recently released version 3.7 could also be used).
+If you already have a version of python 3 installed all the examples we go through will probably 
+work without any errors. We highly recommend upgrading your python installation if you have only Python 2 installed.
+
+
+If you have previously used the anaconda installer a new environment 
 can be created with::
 
     conda create -n py36 python=3.6 anaconda
@@ -75,12 +74,12 @@ We will use pandas mainly for loading datasets and preprocessing.
 * http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 
 
-Files
------
-
-Please download the notebook below for use during the class.
-
- :download:`Week 1 notebook <Intro.ipynb>`
- 
- :download:`Week 1 Assignment <Week1Assignment.ipynb>`
+.. Files
+.. -----
+..
+.. Please download the notebook below for use during the class.
+..
+..  :download:`Week 1 notebook <Intro.ipynb>`
+..  
+..  :download:`Week 1 Assignment <Week1Assignment.ipynb>`
  
