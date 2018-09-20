@@ -18,6 +18,7 @@ Contents:
    help/index.rst
    resources/index.rst
    week1/index.rst
+   week2/index.rst
 
 Indices and tables
 ==================
