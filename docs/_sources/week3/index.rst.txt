@@ -8,7 +8,7 @@ Files
 
 Please download the notebook below for use during the class.
 
-:download:`Week 3 notebook <Week6.ipynb>`
+:download:`Week 3 notebook <Week3.ipynb>`
 
 :download:`Boston Data <boston_data.csv>`
 
