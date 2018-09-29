@@ -35,9 +35,9 @@ Important links:
 
 First class: 13st September 2018 at 5pm in building 10, room 2-3330.
 
-Final classes: 13-14th December 2018
+Final classes: 13th and 20th December 2018
 
-*This document is subject to revision. Last revised 13th September 2018.*
+*This document is subject to revision. Last revised 29th September 2018.*
 
 Course Description
 ------------------
@@ -160,4 +160,4 @@ Schedule
 
 **Week 13 (13 December):** Project presentations and feedback. Part I.
 
-**Week 14 (14 December):** Project presentations and feedback. Part II.
+**Week 14 (20 December):** Project presentations and feedback. Part II.
