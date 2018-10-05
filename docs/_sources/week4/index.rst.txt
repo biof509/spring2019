@@ -8,6 +8,8 @@ Files
 -----
 Please download the notebook below for use during the class.
 
+:download:`Week 4 slides <Week4_slides.pptx>`
+
 :download:`Week 4 notebook <Week4.ipynb>`
 
 Homework assignment:
