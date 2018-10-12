@@ -8,6 +8,8 @@ Files
 -----
 Please download the notebook below for use during the class.
 
+:download:`Week 5 slides <week5_overfitting.pptx>`
+
 :download:`Week 5 notebook <Week5.ipynb>`
 
 Homework assignment:
