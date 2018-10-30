@@ -1,0 +1,304 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Week 1 &mdash; BIOF509 1.2 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Week 2" href="../week2/index.html" />
+    <link rel="prev" title="Further Resources" href="../resources/index.html" /> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> BIOF509
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                1.2
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../syllabus/index.html">Syllabus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../help/index.html">Asking for Help</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../resources/index.html">Further Resources</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Week 1</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#preparation">Preparation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#useful-packages">Useful Packages</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#jupyter">Jupyter</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#numpy">Numpy</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#matplotlib">Matplotlib</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#pandas">Pandas</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#files">Files</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../week2/index.html">Week 2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week3/index.html">Week 3</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week4/index.html">Week 4</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week5/index.html">Week 5</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week6/index.html">Week 6</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week7/index.html">Week 7</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">BIOF509</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Week 1</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/week1/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="week-1">
+<h1>Week 1<a class="headerlink" href="#week-1" title="Permalink to this headline">¶</a></h1>
+<p>Week 1 will be a general introduction to the course and an introduction to machine learning topics.</p>
+<div class="section" id="preparation">
+<h2>Preparation<a class="headerlink" href="#preparation" title="Permalink to this headline">¶</a></h2>
+<p>I would encourage everyone to bring a laptop to the classes to follow along.
+If you do not already have python installed the simplest way to set up your
+computer is probably with the
+<a class="reference external" href="https://www.anaconda.com/download/">Anaconda installer</a>. Use the installer
+for python 3.6 appropriate for your operating system.</p>
+<p>We will be using python 3.6 throughout the course (a recently released version 3.7 could also be used).
+If you already have a version of python 3 installed all the examples we go through will probably
+work without any errors. We highly recommend upgrading your python installation if you have only Python 2 installed.</p>
+<p>If you have previously used the anaconda installer a new environment
+can be created with:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">create</span> <span class="o">-</span><span class="n">n</span> <span class="n">py36</span> <span class="n">python</span><span class="o">=</span><span class="mf">3.6</span> <span class="n">anaconda</span>
+</pre></div>
+</div>
+<p>The necessary command to activate this new environment will depend on your
+<a class="reference external" href="http://conda.pydata.org/docs/test-drive.html#managing-envs">operating system</a>.</p>
+</div>
+<div class="section" id="useful-packages">
+<h2>Useful Packages<a class="headerlink" href="#useful-packages" title="Permalink to this headline">¶</a></h2>
+<p>Depending on your background the following packages may be new to you. As we will be making extensive use of each developing familiarity with each will be useful to you.</p>
+<div class="section" id="jupyter">
+<h3>Jupyter<a class="headerlink" href="#jupyter" title="Permalink to this headline">¶</a></h3>
+<p>Jupyter notebook is a web application that enables sharing of live code together with its output. This is very useful and the majority of course material is in the form of jupyter notebooks.</p>
+<p>The resources below are useful if jupyter is new to you.</p>
+<ul class="simple">
+<li><a class="reference external" href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/">https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/</a></li>
+<li><a class="reference external" href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook">https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook</a></li>
+</ul>
+</div>
+<div class="section" id="numpy">
+<h3>Numpy<a class="headerlink" href="#numpy" title="Permalink to this headline">¶</a></h3>
+<p>Numpy is a foundational package for data analysis in python. The key component it provides is a multi-dimensional array object. The vast majority of packages for scientific tasks in python expect numpy arrays. Numpy also provides many useful basic functions for operating on numerical data.</p>
+<p>The resources below will help you develop a familiarity with array operations with numpy.</p>
+<ul class="simple">
+<li><a class="reference external" href="https://www.datacamp.com/community/tutorials/python-numpy-tutorial">https://www.datacamp.com/community/tutorials/python-numpy-tutorial</a></li>
+<li><a class="reference external" href="https://cs231n.github.io/python-numpy-tutorial/">https://cs231n.github.io/python-numpy-tutorial/</a> (more machine learning focused)</li>
+<li><a class="reference external" href="https://docs.scipy.org/doc/numpy-dev/user/quickstart.html">https://docs.scipy.org/doc/numpy-dev/user/quickstart.html</a> (official documentation)</li>
+</ul>
+</div>
+<div class="section" id="matplotlib">
+<h3>Matplotlib<a class="headerlink" href="#matplotlib" title="Permalink to this headline">¶</a></h3>
+<p>Matplotlib is a plotting package. We will use this extensively for visualizing datasets and results.</p>
+<p>Most of our use of matplotlib is basic but having made a plot or two will be useful</p>
+<ul class="simple">
+<li><a class="reference external" href="http://matplotlib.org/users/pyplot_tutorial.html">http://matplotlib.org/users/pyplot_tutorial.html</a></li>
+</ul>
+</div>
+<div class="section" id="pandas">
+<h3>Pandas<a class="headerlink" href="#pandas" title="Permalink to this headline">¶</a></h3>
+<p>Pandas provides data structures and data analysis tools that are intended to be easier to use. Pandas excels with tabular data.</p>
+<p>We will use pandas mainly for loading datasets and preprocessing.</p>
+<ul class="simple">
+<li><a class="reference external" href="http://pandas.pydata.org/pandas-docs/stable/10min.html">http://pandas.pydata.org/pandas-docs/stable/10min.html</a></li>
+<li><a class="reference external" href="http://pandas.pydata.org/pandas-docs/stable/tutorials.html">http://pandas.pydata.org/pandas-docs/stable/tutorials.html</a></li>
+</ul>
+</div>
+</div>
+<div class="section" id="files">
+<h2>Files<a class="headerlink" href="#files" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference download internal" download="" href="../_downloads/2d4e5abfa734696c7a5f7b89b92e8db8/Week1-assignment.ipynb"><code class="xref download docutils literal notranslate"><span class="pre">Week</span> <span class="pre">1</span> <span class="pre">Assignment</span></code></a></p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../week2/index.html" class="btn btn-neutral float-right" title="Week 2" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../resources/index.html" class="btn btn-neutral" title="Further Resources" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, Jonathan Street &amp; Alexander Goncearenco.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'1.2',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  
+
+  <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
