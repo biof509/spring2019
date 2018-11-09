@@ -132,7 +132,7 @@ Course materials will be distributed on this website in the corresponding weekly
 Schedule
 --------
 
-**Week 1 (13 February):** Course overview. Introduction to machine learning topics
+**Week 1 (13 September):** Course overview. Introduction to machine learning topics
 
 **Week 2 (20 September):** Data retrieval and visualization with numpy, pandas, scikit-learn
 
