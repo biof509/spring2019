@@ -13,21 +13,21 @@ output:
     countIncrementalSlides: false
 ---
 
-![](assets/img/image1.tiff)
+![](assets/img/image1.png)
 
 ---
 
-![](assets/img/image3.tiff)  
+![](assets/img/image3.png)  
 
 <br>
 <br>
 --
 
-![](assets/img/image2.tiff)
+![](assets/img/image2.png)
 
 ---
 
-![](assets/img/image4.tiff)
+![](assets/img/image4.png)
 
 ---
 #  Problem formulation 
@@ -40,7 +40,7 @@ output:
 	+ Batch vs online
 	+ Supervision
 ]
-.pull-right[![](assets/img/image5.tiff)]
+.pull-right[![](assets/img/image5.png)]
 
 ---
 #  By task: 
@@ -67,56 +67,56 @@ output:
 
 ---
 
-![](assets/img/image6.tiff)
+![](assets/img/image6.png)
 
 ---
 #  Classification 
 
-.pull-left[![](assets/img/image7.tiff)]
+.pull-left[![](assets/img/image7.png)]
 
-.pull-right[![](assets/img/image5.tiff)]
+.pull-right[![](assets/img/image5.png)]
 
 ---
 #  Classification 
 
-.pull-left[![](assets/img/image8.tiff)]
+.pull-left[![](assets/img/image8.png)]
 
-.pull-right[![](assets/img/image5.tiff)]
+.pull-right[![](assets/img/image5.png)]
 
 ---
 #  Regression 
 
 + Predicted variable
 + Observed variable
-![](assets/img/image9.tiff)
+![](assets/img/image9.png)
 
 ---
 #  Clustering 
 
-![](assets/img/image10.tiff)
+![](assets/img/image10.png)
 
 ---
 #  Clustering 
 
-![](assets/img/image11.tiff)
+![](assets/img/image11.png)
 
 ---
 #  Latent variable models, density estimation 
 
 
-![](assets/img/image12.tiff)
+![](assets/img/image12.png)
 
 ---
 #  Dimensionality reduction, feature selection 
 
-<img src='assets/img/image13.tiff' width='500px'></img>
+<img src='assets/img/image13.png' width='500px'></img>
 
 ---
 #  Dimensionality reduction for visualization 
 
-.pull-left[![](assets/img/image15.tiff)]
+.pull-left[![](assets/img/image15.png)]
 
-.pull-right[![](assets/img/image14.tiff)]
+.pull-right[![](assets/img/image14.png)]
 
 ---
 #  Simple neural networks and Deep Learning 
