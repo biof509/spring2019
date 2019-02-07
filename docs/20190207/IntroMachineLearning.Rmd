@@ -1,0 +1,131 @@
+---
+title: 'Introduction to Machine Learning'
+author:
+- Alexander Goncearenco
+- Martin Skarzynski
+date: 2019-02-07
+output:
+  xaringan::moon_reader:
+  lib_dir: libs
+  nature:
+    highlightStyle: github
+    highlightLines: true
+    countIncrementalSlides: false
+---
+
+![](assets/img/image1.tiff)
+
+---
+
+![](assets/img/image3.tiff)  
+
+<br>
+<br>
+--
+
+![](assets/img/image2.tiff)
+
+---
+
+![](assets/img/image4.tiff)
+
+---
+#  Problem formulation 
+
+.pull-left[+ Data set
+	+ **X** [N, M]: N samples, N features
+	+ **y** : N labels (outcomes / responses)
++ Machine Learning:
+	+ Type of task
+	+ Batch vs online
+	+ Supervision
+]
+.pull-right[![](assets/img/image5.tiff)]
+
+---
+#  By task: 
+
++ In **classification** the algorithm must assign inputs to one of two (or more) classes
++ In **regression** the algorithm returns a value for each sets of inputs received
++ In **clustering** the algorithm divides the inputs supplied into two or more subgroups
++ In **density estimation** the algorithm constructs an estimate for the population distribution based on a small subset of the whole
++ Finally, **dimensionality reduction** maps inputs on to a lower dimensional space
+
+---
+#  Batch vs Online 
+
++ In **batch learning** algorithms all the data is available and can be processed at one time
++ In **online learning** algorithms only part of the data is available for inclusion at any one time
+
+---
+#  Supervised vs Unsupervised 
+
++ In **supervised learning** each of the supplied inputs is labeled with the desired output
++ In **unsupervised learning** no labels are available and the algorithm must find the underlying structure in the data itself
++ Somewhere in the middle is **semi-supervised learning** in which only some of the supplied inputs also have the desired output
++ In **reinforcement learning** the algorithm must interact with an environment to perform certain actions that maximize reward
+
+---
+
+![](assets/img/image6.tiff)
+
+---
+#  Classification 
+
+.pull-left[![](assets/img/image7.tiff)]
+
+.pull-right[![](assets/img/image5.tiff)]
+
+---
+#  Classification 
+
+.pull-left[![](assets/img/image8.tiff)]
+
+.pull-right[![](assets/img/image5.tiff)]
+
+---
+#  Regression 
+
++ Predicted variable
++ Observed variable
+![](assets/img/image9.tiff)
+
+---
+#  Clustering 
+
+![](assets/img/image10.tiff)
+
+---
+#  Clustering 
+
+![](assets/img/image11.tiff)
+
+---
+#  Latent variable models, density estimation 
+
+
+![](assets/img/image12.tiff)
+
+---
+#  Dimensionality reduction, feature selection 
+
+<img src='assets/img/image13.tiff' width='500px'></img>
+
+---
+#  Dimensionality reduction for visualization 
+
+.pull-left[![](assets/img/image15.tiff)]
+
+.pull-right[![](assets/img/image14.tiff)]
+
+---
+#  Simple neural networks and Deep Learning 
+
+![](assets/img/image16.png)
+
+---
+#  When to use Machine Learning? 
+
++ **You cannot code the rules:** Many tasks cannot be adequately solved using a deterministic rule-based solution. A large number of factors could influence the answer (feature space is large)
++ **You cannot scale:** ML solutions are effective at handling large-scale problems (sample space is large)
++ Machine learning benefits come at a price (computational, design)
