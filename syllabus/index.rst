@@ -60,7 +60,7 @@ By the end of this course you should be able to:
 Logistics
 ---------
 
-This is a 14 week course starting on the 13th September 2018, and finishing on 13-14th December 2018. Classes will take place between 5:00pm and 7:00pm each Thursday in building 10, room 2-3330 within the FAES Academic Center.
+This is a 15 week course starting on the 7th February, and finishing on the 16th of May. Classes will take place between 5:30pm and 7:30pm each Thursday in building 60, room TBD. First class in in room 162.
 
 Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be distributed over the course website.
 
