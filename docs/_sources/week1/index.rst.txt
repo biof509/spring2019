@@ -80,4 +80,6 @@ Files
 ..  :download:`Week 1 notebook <Intro.ipynb>`
 ..  
 
+* Link to Week 1 slides: https://biof509.github.io/spring2019/20190207/IntroMachineLearning.html
+
 :download:`Week 1 Assignment <Week1-assignment.ipynb>`
