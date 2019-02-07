@@ -12,9 +12,9 @@ I would encourage everyone to bring a laptop to the classes to follow along.
 If you do not already have python installed the simplest way to set up your
 computer is probably with the 
 `Anaconda installer <https://www.anaconda.com/download/>`_. Use the installer 
-for python 3.6 appropriate for your operating system. 
+for python 3.7 appropriate for your operating system. 
 
-We will be using python 3.6 throughout the course (a recently released version 3.7 could also be used).
+We will be using python 3.7 throughout the course.
 If you already have a version of python 3 installed all the examples we go through will probably 
 work without any errors. We highly recommend upgrading your python installation if you have only Python 2 installed.
 
@@ -22,7 +22,7 @@ work without any errors. We highly recommend upgrading your python installation 
 If you have previously used the anaconda installer a new environment 
 can be created with::
 
-    conda create -n py36 python=3.6 anaconda
+    conda create -n py37 python=3.7 anaconda
 
 The necessary command to activate this new environment will depend on your
 `operating system <http://conda.pydata.org/docs/test-drive.html#managing-envs>`_. 

@@ -4,7 +4,7 @@ Syllabus
 **BIOF509 - Applied Machine Learning with Python**
 
 
-**Fall 2018**
+**Spring 2019**
 
 Machine learning is a computational field that consists of techniques allowing computers to learn from data and make data-driven predictions or decisions. The ability to implement machine learning approaches appropriately and intelligently is a crucial component of data analysis. BIOF 509 provides a broad practical introduction to machine learning concepts, analysis design, and implementation.
 
@@ -19,12 +19,13 @@ The course will culminate in a short research project utilizing machine learning
 
 Instructors:
 
-* Alexander Goncearenco (alexander.goncearenco@gmail.com)
-* Ayal Gussow (ayal.gussow@gmail.com)
+* Alexander Goncearenco
+* Martin Skarzynski
 
 Teaching assistant:
 
-* Ryan Dhindsa (ryandhindsa@gmail.com)
+* Ryan Dhindsa
+* Vinay Swamy
 
 Important links:
 
@@ -33,11 +34,12 @@ Important links:
 * `Class grading system <https://okpy.org>`_
 
 
-First class: 13st September 2018 at 5pm in building 10, room 2-3330.
+First class: 7th February 2019 at 5:30pm in building 60, room 162.
 
-Final classes: 13th and 20th December 2018
 
-*This document is subject to revision. Last revised 29th September 2018.*
+Final classes: 6th and 16th of May 2019
+
+*This document is subject to revision. Last revised 7th February 2019.*
 
 Course Description
 ------------------
@@ -64,10 +66,7 @@ Attendance in class is strongly recommended; however, we realize other commitmen
 
 Most classes will have hands-on tutorials and assignments. Both practice and graded assignments will generally be provided. Graded assignments should be submitted prior to the following class, please follow the deadlines specified on OKpy website. So that you can follow along during class bringing a laptop to each class is strongly encouraged.
 
-Important dates:
-
-* October 2018 - Last day to drop/withdraw
-* November 2018 - Last day to change status (credit or audit)
+Please check with the FAES regarding the last drop out day and the last day to change status (credit or audit).
 
 Required Materials
 ------------------
@@ -123,6 +122,17 @@ preferably while showing snippets of code.
 Project grades will be determined based on the components outlined above, with each component representing 33% of the project grade.
 
 
+Some guidelines for the final projects. The *most* important factor is clarity and documentation; we need to understand what you are doing and why you are doing it.
+
+1) We need to understand the problem you are trying to solve or explore, and your overarching goal.
+2) We need to understand your approach, in ML terms (supervised / unsupervised, classification / regression, clustering, etc). Whatever ML approach you choose, justify it in terms of your overarching goal and datasets.
+3) Describe your data in ML terms: what is each sample and how many are there, what are the features and how are they formatted, etc.
+4) Describe the workflow clearly: from raw datasets and their sources, to formatting and preprocessing those data into samples and features, through ML approaches and final results.
+5) Code should be documented with docustrings and comments, plots should be labelled in such a way that we know what we are looking at.
+6) Note that project documentation and code can be combined into a single Jupyter notebook, but does not have to be.
+7) While we appreciate well-written and modular code, with robust error-checking and so forth, this is not required. The most important factor is that the code is legible (docustrings, comments) so that we can follow.
+
+
 Course Materials
 ----------------
 
@@ -132,32 +142,40 @@ Course materials will be distributed on this website in the corresponding weekly
 Schedule
 --------
 
-**Week 1 (13 September):** Course overview. Introduction to machine learning topics
+**Week 1 (7 February):** Course overview. Introduction to machine learning topics
 
-**Week 2 (20 September):** Data retrieval and visualization with numpy, pandas, scikit-learn
+**Week 2 (14 February):** Data retrieval and visualization with numpy, pandas, scikit-learn
 
-**Week 3 (27 September):** Data wrangling, preprocessing, and normalization
+**Week 3 (21 February):** Data wrangling, preprocessing, and normalization
 
-**Week 4 (04 October):** Supervised learning 1: Regression problems
+**Week 4 (28 February):** Supervised learning 1: Regression problems
 
-**Week 5 (11 October):** Supervised learning 2: Overfitting, regularization, hyperparameter optimization, and cross-validation
 
-**Week 6 (18 October):** Supervised learning 3: Classification problems
+**Week 5 (7 March):** Supervised learning 2: Overfitting, regularization, hyperparameter optimization, and cross-validation
 
-**Week 7 (25 October):** Unsupervised learning 1: Clustering
+**Week 6 (14 March):** Supervised learning 3: Classification problems
 
-**Week 8 (01 November):** Unsupervised learning 2: Latent variable models
 
-**Week 9 (08 November):** Unsupervised learning 3: Dimensionality reduction and feature selection
+**Week 7 (21 March):** Unsupervised learning 1: Clustering
 
-**Week 10 (15 November):** Introduction to deep learning methods
+**Week 8 (28 March):** Unsupervised learning 2: Latent variable models
 
-** No class on 22 November:** Thanksgiving
+**Week 9 (4 April):** Unsupervised learning 3: Dimensionality reduction and feature selection
 
-**Week 11 (29 November):** Practicum on deep learning
 
-**Week 12 (06 December):** Implementing machine learning workflows. Common pitfalls and best practices.
 
-**Week 13 (13 December):** Project presentations and feedback. Part I.
+**Week 10 (11 April):** Deep learning 1: Introduction to deep learning methods
 
-**Week 14 (20 December):** Project presentations and feedback. Part II.
+**Week 11 (18 April):** Deep learning 2: Practicum
+
+
+**Week 12 (25 April):** Implementing machine learning workflows. Common pitfalls and best practices.
+
+**Week 13 (2 May):** Additional topics in machine learning. Learning by examples
+
+
+**Week 14 (9 May):** Project presentations and feedback. Part I.
+
+**Week 15 (16 May):** Project presentations and feedback. Part II.
+
+
