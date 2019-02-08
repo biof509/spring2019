@@ -49,7 +49,7 @@ help:
 
 .PHONY: clean
 clean:
-	rm -rf $(BUILDDIR)/*
+	find $(BUILDDIR) ! -path "*/2019*" -mindepth 1 -delete
 
 .PHONY: html
 html:
