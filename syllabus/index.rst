@@ -33,13 +33,9 @@ Important links:
 
 * `Class grading system <https://okpy.org>`_
 
-
-First class: 7th February 2019 at 5:30pm in building 60, room 162.
-
-
 Final classes: 6th and 16th of May 2019
 
-*This document is subject to revision. Last revised 7th February 2019.*
+*This document is subject to revision. Last revised 14th February 2019.*
 
 Course Description
 ------------------
@@ -60,7 +56,7 @@ By the end of this course you should be able to:
 Logistics
 ---------
 
-This is a 15 week course starting on the 7th February, and finishing on the 16th of May. Classes will take place between 5:30pm and 7:30pm each Thursday in building 60, room TBD. First class is in room 162.
+This is a 15 week course starting on the 7th February, and finishing on the 16th of May. Classes will take place between 5:30pm and 7:30pm each Thursday in building 60, Rathskeller Room B1A199C.
 
 Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be distributed over the course website.
 
