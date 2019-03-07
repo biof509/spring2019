@@ -21,6 +21,7 @@ Contents:
    week2/index.rst
    week3/index.rst
    week4/index.rst
+   week5/index.rst
  
 
 Indices and tables
