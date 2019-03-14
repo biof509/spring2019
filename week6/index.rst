@@ -6,8 +6,7 @@ In Week 6 we will explore classification.
 
 Files
 -----
-
-:download:`Week 6 slides <week6_classification.pptx>`
+:download:`Week 6 notebook <Week6.ipynb>`
 
 Homework assignment:
 
