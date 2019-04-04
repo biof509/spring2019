@@ -1,7 +1,7 @@
 Week 9
 =======
 
-In Week 9 we are exploring dimensionality reduction problems and a related probelem of feature selection.
+In Week 9, we are exploring dimensionality reduction problems and the related problem of feature selection.
 
 Files
 -----
