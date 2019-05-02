@@ -1,1 +1,0 @@
-* Ideally, data are organized as a table: examples-vs-features

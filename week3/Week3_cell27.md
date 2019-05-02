@@ -1,1 +1,0 @@
-* Any data that need to be normalized have been normalized

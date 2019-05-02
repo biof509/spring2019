@@ -1,1 +1,0 @@
-* Pandas is built for exploratory analysis, visualization and stat tests / ML 

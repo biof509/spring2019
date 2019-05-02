@@ -1,1 +1,0 @@
-## Pandas can even retrieve from an SQL database directly

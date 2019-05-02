@@ -1,1 +1,0 @@
-* Generated in-house (stored as CSVs, TSVs, SQL, proprietary, etc)

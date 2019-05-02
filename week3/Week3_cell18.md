@@ -1,1 +1,0 @@
-* Pandas is *incredibly useful* for data wrangling
