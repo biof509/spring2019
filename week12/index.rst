@@ -6,7 +6,9 @@ In Week 12 we are talking about Machine Learning workflows and converting machin
 Files
 -----
 
-Please download the notebook below:
+Please download the slides and notebooks below:
+
+:download:`Week 12 slides <Week12.pptx>`
 
 :download:`Notebook <Week12.ipynb>`
 
