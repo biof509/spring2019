@@ -1,13 +1,17 @@
 Week 12
 =======
 
-
-Week 12 will cover common practices.
+In Week 12 we are talking about Machine Learning workflows and converting machine learning models into programs/applications.
 
 Files
 -----
 
-:download:`Week 12 slides <Week12.pptx>`
+Please download the notebook below:
 
-:download:`Week 12 notebook <Week12.ipynb>`
+:download:`Notebook <Week12.ipynb>`
+
+:download:`Example model notebook <Wk12-Web.ipynb>`
+
+:download:`Web example 1 <web_example1.zip>`
+:download:`Web example 2 <web_example2.zip>`
 
