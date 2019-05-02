@@ -1,0 +1,1 @@
+* Data are of the correct type (e.g. categorical vs continuous, boolean vs int)

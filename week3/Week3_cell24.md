@@ -1,0 +1,1 @@
+* Data from multiple sources are combined
